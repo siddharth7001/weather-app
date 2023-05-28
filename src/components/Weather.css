@@ -1,0 +1,29 @@
+.weather-card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .weather-card h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .weather-card p {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  
+  .loading {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  .error {
+    font-size: 18px;
+    color: red;
+    margin-top: 20px;
+  }
